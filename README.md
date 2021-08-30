@@ -1,5 +1,10 @@
 # blender-memo
 
+## ドキュメント
+
+https://docs.blender.org/api/current/index.html
+https://docs.blender.org/api/current/bpy.types.Operator.html#bpy.types.Operator.report
+
 ## 起動時のカレントディレクトリ
 
 `Python console`画面で以下を入力
